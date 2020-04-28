@@ -39,6 +39,7 @@
     <module>hudi-cli</module>
     <module>hudi-client</module>
     <module>hudi-hadoop-mr</module>
+    <module>hudi-standalone</module>
     <module>hudi-hive</module>
     <module>hudi-spark</module>
     <module>hudi-timeline-service</module>
